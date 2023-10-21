@@ -41,7 +41,9 @@
       <li>skill</li>
       <li>skill</li>
     </ul>
-    <h2>Contact</h2>
+    <h2 id="Contact">Contact</h2>
+    <a href="https://www.facebook.com/alfredo.jemaine.basshawn/about" target="_blank">Facebook</a>
+
 
   
 </html>
